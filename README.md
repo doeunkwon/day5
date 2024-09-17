@@ -1,5 +1,5 @@
 # day5
-> I ❤️ VIPER architecture. It was pretty overkill for this mini project, but it was fascinating to play around with it. I may use it for my next larger app.
+> I like VIPER architecture! It was pretty overkill for this mini project, but it was fascinating to play around with it. I may use it for my next larger app.
 
 **day5** is a beautiful, ultra-minimalistic, and intuitive iOS timer app built using the VIPER architecture and adhering to SOLID principles. This app was created as a fun day project to practice writing clean, modular, and loosely coupled code, while also experimenting with gesture-based controls.
 
